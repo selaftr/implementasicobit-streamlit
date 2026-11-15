@@ -1,0 +1,76 @@
+process,level,activity_id,activity,score
+EDM05,1,EDM05-L1-1,Pemangku kepentingan utama TI diidentifikasi,88.8
+EDM05,1,EDM05-L1-2,Kebutuhan pelaporan kepada pemangku kepentingan dikomunikasikan,93.0
+EDM05,1,EDM05-L1-3,Laporan kinerja TI disampaikan ke manajemen secara berkala,84.4
+EDM05,2,EDM05-L2-1,Proses EDM05 direncanakan dan kinerjanya dipantau,73.6
+EDM05,2,EDM05-L2-2,Peran dan tanggung jawab proses EDM05 ditetapkan dan didokumentasikan,70.6
+EDM05,2,EDM05-L2-3,Hasil kerja (work product) proses EDM05 dikelola dan ditinjau kualitasnya,66.8
+EDM05,3,EDM05-L3-1,Proses EDM05 mengikuti standar proses organisasi yang terdokumentasi,31.8
+EDM05,3,EDM05-L3-2,Sumber daya dan kompetensi untuk proses EDM05 didefinisikan dan disediakan,34.2
+EDM05,3,EDM05-L3-3,Proses EDM05 disesuaikan (tailoring) dari standar organisasi,31.9
+EDM05,4,EDM05-L4-1,Proses EDM05 diukur dengan metrik kuantitatif,7.1
+EDM05,4,EDM05-L4-2,Hasil pengukuran proses EDM05 dianalisis untuk mengendalikan kinerja,10.9
+EDM05,4,EDM05-L4-3,Batas kinerja/target proses EDM05 ditetapkan dan dipantau,10.1
+EDM05,5,EDM05-L5-1,Perbaikan berkelanjutan proses EDM05 direncanakan,7.7
+EDM05,5,EDM05-L5-2,Inovasi proses EDM05 dievaluasi dan diadopsi,7.7
+EDM05,5,EDM05-L5-3,Analisis akar masalah proses EDM05 dilakukan secara rutin,8.6
+APO13,1,APO13-L1-1,Kebijakan keamanan informasi ditetapkan,89.5
+APO13,1,APO13-L1-2,Risiko keamanan informasi diidentifikasi,90.4
+APO13,1,APO13-L1-3,Rencana penanganan risiko keamanan disusun,94.2
+APO13,2,APO13-L2-1,Proses APO13 direncanakan dan kinerjanya dipantau,67.5
+APO13,2,APO13-L2-2,Peran dan tanggung jawab proses APO13 ditetapkan dan didokumentasikan,62.5
+APO13,2,APO13-L2-3,Hasil kerja (work product) proses APO13 dikelola dan ditinjau kualitasnya,66.1
+APO13,3,APO13-L3-1,Proses APO13 mengikuti standar proses organisasi yang terdokumentasi,35.6
+APO13,3,APO13-L3-2,Sumber daya dan kompetensi untuk proses APO13 didefinisikan dan disediakan,32.1
+APO13,3,APO13-L3-3,Proses APO13 disesuaikan (tailoring) dari standar organisasi,32.4
+APO13,4,APO13-L4-1,Proses APO13 diukur dengan metrik kuantitatif,10.6
+APO13,4,APO13-L4-2,Hasil pengukuran proses APO13 dianalisis untuk mengendalikan kinerja,15.3
+APO13,4,APO13-L4-3,Batas kinerja/target proses APO13 ditetapkan dan dipantau,5.1
+APO13,5,APO13-L5-1,Perbaikan berkelanjutan proses APO13 direncanakan,13.4
+APO13,5,APO13-L5-2,Inovasi proses APO13 dievaluasi dan diadopsi,3.1
+APO13,5,APO13-L5-3,Analisis akar masalah proses APO13 dilakukan secara rutin,8.7
+BAI09,1,BAI09-L1-1,Inventaris aset TI (perangkat keras & lunak) dicatat,87.3
+BAI09,1,BAI09-L1-2,Pemilik/penanggung jawab aset ditetapkan,97.4
+BAI09,1,BAI09-L1-3,Lisensi perangkat lunak dilacak dan dipantau,95.3
+BAI09,2,BAI09-L2-1,Proses BAI09 direncanakan dan kinerjanya dipantau,96.6
+BAI09,2,BAI09-L2-2,Peran dan tanggung jawab proses BAI09 ditetapkan dan didokumentasikan,88.5
+BAI09,2,BAI09-L2-3,Hasil kerja (work product) proses BAI09 dikelola dan ditinjau kualitasnya,94.7
+BAI09,3,BAI09-L3-1,Proses BAI09 mengikuti standar proses organisasi yang terdokumentasi,65.9
+BAI09,3,BAI09-L3-2,Sumber daya dan kompetensi untuk proses BAI09 didefinisikan dan disediakan,66.2
+BAI09,3,BAI09-L3-3,Proses BAI09 disesuaikan (tailoring) dari standar organisasi,70.0
+BAI09,4,BAI09-L4-1,Proses BAI09 diukur dengan metrik kuantitatif,36.5
+BAI09,4,BAI09-L4-2,Hasil pengukuran proses BAI09 dianalisis untuk mengendalikan kinerja,33.8
+BAI09,4,BAI09-L4-3,Batas kinerja/target proses BAI09 ditetapkan dan dipantau,30.5
+BAI09,5,BAI09-L5-1,Perbaikan berkelanjutan proses BAI09 direncanakan,4.7
+BAI09,5,BAI09-L5-2,Inovasi proses BAI09 dievaluasi dan diadopsi,13.8
+BAI09,5,BAI09-L5-3,Analisis akar masalah proses BAI09 dilakukan secara rutin,10.4
+DSS05,1,DSS05-L1-1,Perlindungan endpoint (antivirus & patching) diterapkan,94.9
+DSS05,1,DSS05-L1-2,Hak akses pengguna dikelola dan ditinjau,100.0
+DSS05,1,DSS05-L1-3,Insiden keamanan dipantau dan dicatat,88.7
+DSS05,2,DSS05-L2-1,Proses DSS05 direncanakan dan kinerjanya dipantau,100.0
+DSS05,2,DSS05-L2-2,Peran dan tanggung jawab proses DSS05 ditetapkan dan didokumentasikan,100.0
+DSS05,2,DSS05-L2-3,Hasil kerja (work product) proses DSS05 dikelola dan ditinjau kualitasnya,98.5
+DSS05,3,DSS05-L3-1,Proses DSS05 mengikuti standar proses organisasi yang terdokumentasi,36.3
+DSS05,3,DSS05-L3-2,Sumber daya dan kompetensi untuk proses DSS05 didefinisikan dan disediakan,30.3
+DSS05,3,DSS05-L3-3,Proses DSS05 disesuaikan (tailoring) dari standar organisasi,37.0
+DSS05,4,DSS05-L4-1,Proses DSS05 diukur dengan metrik kuantitatif,6.2
+DSS05,4,DSS05-L4-2,Hasil pengukuran proses DSS05 dianalisis untuk mengendalikan kinerja,7.9
+DSS05,4,DSS05-L4-3,Batas kinerja/target proses DSS05 ditetapkan dan dipantau,6.8
+DSS05,5,DSS05-L5-1,Perbaikan berkelanjutan proses DSS05 direncanakan,9.1
+DSS05,5,DSS05-L5-2,Inovasi proses DSS05 dievaluasi dan diadopsi,13.2
+DSS05,5,DSS05-L5-3,Analisis akar masalah proses DSS05 dilakukan secara rutin,5.8
+MEA03,1,MEA03-L1-1,Persyaratan hukum/regulasi terkait TI diidentifikasi,64.1
+MEA03,1,MEA03-L1-2,Kepatuhan terhadap regulasi dievaluasi secara berkala,64.0
+MEA03,1,MEA03-L1-3,Temuan ketidakpatuhan dilaporkan ke manajemen,64.1
+MEA03,2,MEA03-L2-1,Proses MEA03 direncanakan dan kinerjanya dipantau,27.3
+MEA03,2,MEA03-L2-2,Peran dan tanggung jawab proses MEA03 ditetapkan dan didokumentasikan,29.3
+MEA03,2,MEA03-L2-3,Hasil kerja (work product) proses MEA03 dikelola dan ditinjau kualitasnya,38.2
+MEA03,3,MEA03-L3-1,Proses MEA03 mengikuti standar proses organisasi yang terdokumentasi,5.6
+MEA03,3,MEA03-L3-2,Sumber daya dan kompetensi untuk proses MEA03 didefinisikan dan disediakan,9.0
+MEA03,3,MEA03-L3-3,Proses MEA03 disesuaikan (tailoring) dari standar organisasi,3.1
+MEA03,4,MEA03-L4-1,Proses MEA03 diukur dengan metrik kuantitatif,8.7
+MEA03,4,MEA03-L4-2,Hasil pengukuran proses MEA03 dianalisis untuk mengendalikan kinerja,1.0
+MEA03,4,MEA03-L4-3,Batas kinerja/target proses MEA03 ditetapkan dan dipantau,5.2
+MEA03,5,MEA03-L5-1,Perbaikan berkelanjutan proses MEA03 direncanakan,17.0
+MEA03,5,MEA03-L5-2,Inovasi proses MEA03 dievaluasi dan diadopsi,5.7
+MEA03,5,MEA03-L5-3,Analisis akar masalah proses MEA03 dilakukan secara rutin,12.5
