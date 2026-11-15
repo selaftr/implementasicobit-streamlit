@@ -1,5 +1,3 @@
-streamlit>=1.30
+streamlit
 pandas
 plotly
-matplotlib
-jupyter
